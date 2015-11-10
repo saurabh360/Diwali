@@ -8,6 +8,7 @@ namespace TestMacHello
 		{
 			NSApplication.Init ();
 			NSApplication.Main (args);
+			//Test
 		}
 	}
 }
